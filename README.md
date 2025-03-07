@@ -9,5 +9,5 @@ irm https://raw.githubusercontent.com/SMControl/SM_Services/refs/heads/main/so_p
 #### SO Cig
 Runs Cigserver.exe as a service for the current user. No tray icon.
 ```
-irm PUT-HERE | iex
+irm https://raw.githubusercontent.com/SMControl/SM_Services/refs/heads/main/so_cigserver.ps1 | iex
 ```
