@@ -11,3 +11,4 @@ Runs Cigserver.exe as a service for the current user. No tray icon.
 ```
 irm https://raw.githubusercontent.com/SMControl/SM_Services/refs/heads/main/so_cigserver.ps1 | iex
 ```
+ToDo = Needs to be configured to find where the exe is.
